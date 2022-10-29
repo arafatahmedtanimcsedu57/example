@@ -1,2 +1,1 @@
-I am Arafat Ahmed
-I am a Sr. Developer
+I am Arafat Ahmed, Sr. Developer
